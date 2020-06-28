@@ -4,7 +4,7 @@ This repo contains all the hardware files needed to build a low cost ioniser. It
 
 Details and circuit explanations are mentioned in the link below. Please do read the links fully before starting the build process. 
  - [http://amaldev.blog/build-ioniser-in-under-10-dollars/](http://amaldev.blog/build-ioniser-in-under-10-dollars/)
- - Link 2
+ - [http://amaldev.blog/build-an-ioniser-in-under-10-dollars-part-2/](http://amaldev.blog/build-an-ioniser-in-under-10-dollars-part-2/)
 
 Repo contains files for both Positive and Negative Ioniser which gives you a High Voltage positive and negative DC voltages. The circuits are very similar except that the diodes are swapped. Bill of Materials remains same for both versions. 
 
