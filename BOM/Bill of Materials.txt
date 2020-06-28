@@ -1,0 +1,14 @@
+Qty Value           Device          Package            Parts                                                                                                                                       Description I-RATING PART-NUM         RATED TOLERANCE V-RATING
+30  100nF           CAPACITOR-1812  C1812              C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30                      1812B104K631CT   630V  ±10%              
+2   10M             RESISTOR-1206   R1206              R1, R2                                                                                                                                                           1206W4F1005T5E   0.25W ±1%               
+2   51k             RESISTOR-1210   R1210              R3, R4                                                                                                                                                           CR1210J51K0P05Z  0.5W  ±5%               
+30  DIODE-1N4007    DIODE-1N4007    DO-214A            D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30             1A       1N4007G                          1kV     
+1   LED-0603-SMD    LED-0603-SMD    LED-0603           LED1                                                                                                                                                             D-060306R1/SS2/L                         
+
+
+Other Mechanical Parts:
+
+
+1 unit:  3mm Acrylic Cover (Laser Cut) - FileName for laser cutting Acrylic-Cover-Laser-Cut.dxf              
+4 units: 20mm(long) spacer/Standoff - Nylon Screws (LCSC Part Number: C242804)
+4 units: M3 x 5mm(long) - Nylon Screws (LCSC Part Number: C194616)
